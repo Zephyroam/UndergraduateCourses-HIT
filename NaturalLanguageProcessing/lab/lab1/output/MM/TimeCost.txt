@@ -1,0 +1,13 @@
+Before Optimization:
+	FMM: time: 22195.06s
+	BMM: time: 22179.69s
+After Optimization:
+using AVL:
+	FMM: time: 15.01s
+	BMM: time: 13.63s
+using HASH:
+	FMM: time: 300.63s
+	BMM: time: 221.57s
+using HASH1:
+	FMM: time: 9.12s
+	BMM: time: 8.27s

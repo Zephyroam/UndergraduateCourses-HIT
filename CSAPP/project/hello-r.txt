@@ -1,0 +1,15 @@
+
+Relocation section '.rela.text' at offset 0x380 contains 8 entries:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+00000000001c  000500000002 R_X86_64_PC32     0000000000000000 .rodata - 4
+000000000021  000d00000004 R_X86_64_PLT32    0000000000000000 puts - 4
+00000000002b  000e00000004 R_X86_64_PLT32    0000000000000000 exit - 4
+000000000054  000500000002 R_X86_64_PC32     0000000000000000 .rodata + 1a
+00000000005e  000f00000004 R_X86_64_PLT32    0000000000000000 printf - 4
+000000000064  000a00000002 R_X86_64_PC32     0000000000000000 sleepsecs - 4
+00000000006b  001000000004 R_X86_64_PLT32    0000000000000000 sleep - 4
+00000000007a  001100000004 R_X86_64_PLT32    0000000000000000 getchar - 4
+
+Relocation section '.rela.eh_frame' at offset 0x440 contains 1 entry:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+000000000020  000200000002 R_X86_64_PC32     0000000000000000 .text + 0

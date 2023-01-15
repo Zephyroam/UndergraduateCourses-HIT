@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec 18 13:21:25 2020
+# Process ID: 1724
+# Current directory: D:/Dedsecr/Vivado/Lock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13000 D:\Dedsecr\Vivado\Lock\LOCK.xpr
+# Log file: D:/Dedsecr/Vivado/Lock/vivado.log
+# Journal file: D:/Dedsecr/Vivado/Lock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Dedsecr/Vivado/Lock/LOCK.xpr

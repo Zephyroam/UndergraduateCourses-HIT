@@ -1,0 +1,2 @@
+FMM: precision: 93.98%, recall: 94.50%, F: 94.24%
+BMM: precision: 94.23%, recall: 94.72%, F: 94.47%

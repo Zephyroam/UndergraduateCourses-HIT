@@ -1,0 +1,2 @@
+Best train acc: 93.96
+Best val acc: 92.63

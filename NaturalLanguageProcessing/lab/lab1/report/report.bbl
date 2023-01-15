@@ -1,0 +1,26 @@
+\begin{thebibliography}{4}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Cavnar et~al.(1994)Cavnar, Trenkle et~al.}]{cavnar1994n}
+William~B Cavnar, John~M Trenkle, et~al. 1994.
+\newblock N-gram-based text categorization.
+\newblock In \emph{Proceedings of SDAIR-94, 3rd annual symposium on document
+  analysis and information retrieval}, volume 161175. Citeseer.
+
+\bibitem[{Edmonds(1965)}]{edmonds1965maximum}
+Jack Edmonds. 1965.
+\newblock Maximum matching and a polyhedron with 0, 1-vertices.
+\newblock \emph{Journal of research of the National Bureau of Standards B},
+  69(125-130):55--56.
+
+\bibitem[{Stanke and Waack(2003)}]{stanke2003gene}
+Mario Stanke and Stephan Waack. 2003.
+\newblock Gene prediction with a hidden markov model and a new intron submodel.
+\newblock \emph{Bioinformatics}, 19(suppl\_2):ii215--ii225.
+
+\bibitem[{Thue(1912)}]{thue1912uber}
+Axel Thue. 1912.
+\newblock Uber die gegenseitige lage gleicher teile gewisser zeichenreihen.
+\newblock \emph{Kra. Vidensk. Selsk. Skrifer, I. Mat. Nat. Kl.}, pages 1--67.
+
+\end{thebibliography}

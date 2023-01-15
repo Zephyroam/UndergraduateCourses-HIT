@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec 18 13:02:31 2020
+# Process ID: 18300
+# Current directory: D:/Dedsecr/Vivado/Lock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15736 D:\Dedsecr\Vivado\Lock\LOCK.xpr
+# Log file: D:/Dedsecr/Vivado/Lock/vivado.log
+# Journal file: D:/Dedsecr/Vivado/Lock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Dedsecr/Vivado/Lock/LOCK.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:26 . Memory (MB): peak = 987.277 ; gain = 0.000
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 6
+[Fri Dec 18 13:11:50 2020] Launched synth_1...
+Run output will be captured here: D:/Dedsecr/Vivado/Lock/LOCK.runs/synth_1/runme.log
+[Fri Dec 18 13:11:51 2020] Launched impl_1...
+Run output will be captured here: D:/Dedsecr/Vivado/Lock/LOCK.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Dec 18 13:16:06 2020...
